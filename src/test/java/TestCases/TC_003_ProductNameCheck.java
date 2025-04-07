@@ -2,7 +2,6 @@ package TestCases;
 
 import org.testng.annotations.Test;
 
-import PageObjects.Home_Page;
 import PageObjects.ProductPage;
 import PageObjects.Product_InfoPage;
 
